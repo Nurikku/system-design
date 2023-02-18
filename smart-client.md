@@ -1,7 +1,4 @@
-# system-design
-Glossary for certain system design keywords
-
-Smart client Load balancing
+# Smart client Load balancing
 
 A smart client load balancer is a type of load balancing algorithm that is used to distribute network traffic among multiple servers or resources in a network. It is typically used in distributed computing environments where multiple clients are connecting to a set of servers that provide a particular service or application.
 
